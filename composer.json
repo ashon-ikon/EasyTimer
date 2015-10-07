@@ -1,0 +1,16 @@
+{
+    "name": "ashony/easytimer",
+    "description": "Fancy and smart process timer",
+    "type": "timer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yinka Asonibare",
+            "email": "yinka.asonibare@theiconic.com.au"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"php": ">= 5.3.0"
+	}
+}
